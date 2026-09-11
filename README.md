@@ -198,20 +198,4 @@ Some of the main things I practiced were:
 * Comparing models using multiple evaluation metrics
 * Understanding how feature engineering can affect model performance
 
-## Future Improvements
 
-There are still several things that could be improved in this project.
-
-Some possible next steps are:
-
-* Try more classification algorithms
-* Perform hyperparameter tuning
-* Use cross-validation
-* Handle class imbalance if necessary
-* Experiment with different feature engineering techniques
-* Build a simple prediction interface
-* Deploy the final model
-
-## Note
-
-This is a learning project created to practice the end-to-end machine learning workflow. The model's predictions should not be treated as real-world financial or lending decisions.
